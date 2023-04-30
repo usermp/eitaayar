@@ -1,0 +1,18 @@
+{
+    "name": "usermp/eitaa",
+    "autoload": {
+        "psr-4": {
+            "Usermp\\Eitaa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Yeganeh",
+            "email": "usermp76@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
