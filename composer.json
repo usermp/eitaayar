@@ -1,8 +1,8 @@
 {
-    "name": "usermp/eitaa",
+    "name": "usermp/eitaayar",
     "autoload": {
         "psr-4": {
-            "Usermp\\Eitaa\\": "src/"
+            "Usermp\\Eitaayar\\": "src/"
         }
     },
     "authors": [
