@@ -1,6 +1,6 @@
 <?php
 
-namespace Usermp\Eitaayar;
+namespace Eitaayar;
 
 
 use GuzzleHttp\Client;
