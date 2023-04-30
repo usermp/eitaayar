@@ -1,7 +1,7 @@
 Eitaayar API Client
 ================
 
-This PHP package provides a simple way to interact with the Eitaayar API for sending messages and documents to Telegram chats.
+This package provides a simple way to interact with the Eitaayar API for sending messages and documents to Eitaayar channel or groups.
 
 Installation
 ------------
@@ -13,6 +13,10 @@ To install this package, you can use Composer:
 Usage
 -----
 To use this package, you need to have an [Eitaayar](https://eitaayar.ir/) API token.
+
+Edit your .env file and add this const:
+
+    EITAAYAR_TOKEN = {Eitaayar API token}
 
 
 Sending a message
