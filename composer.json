@@ -2,7 +2,7 @@
     "name": "usermp/eitaayar",
     "autoload": {
         "psr-4": {
-            "Usermp\\Eitaayar\\": "src/"
+            "Eitaayar\\": "src/"
         }
     },
     "authors": [
