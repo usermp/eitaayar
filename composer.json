@@ -14,5 +14,6 @@
     "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.2"
-    }
+    },
+    "license": "MIT"
 }
