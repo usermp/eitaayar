@@ -16,7 +16,7 @@ To use this package, you need to have an [Eitaayar](https://eitaayar.ir/) API to
 
 Edit your .env file and add this const:
 
-    EITAAYAR_TOKEN = {Eitaayar API token}
+    EITAAYAR_TOKEN={Eitaayar API token}
 
 
 Sending a message
